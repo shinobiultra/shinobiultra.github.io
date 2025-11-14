@@ -19,9 +19,9 @@ function determineGiscusTheme() {
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
     "data-repo": "shinobiultra/shinobiultra.github.io",
-    "data-repo-id": "",
+    "data-repo-id": "R_kgDOQUBNHA",
     "data-category": "Comments",
-    "data-category-id": "",
+    "data-category-id": "DIC_kwDOQUBNHM4CxtVR",
     "data-mapping": "title",
     "data-strict": "1",
     "data-reactions-enabled": "1",
