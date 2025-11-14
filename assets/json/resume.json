@@ -1,200 +1,293 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Filip Kučera",
+    "label": "PhD Student @ JMU Würzburg",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "f.kucera@media-bias-research.org",
+    "phone": "+420 776 270 247",
+    "url": "https://media-bias-research.org/",
+    "summary": "Highly self-motivated, curiosity-driven student with a strong passion for understanding machine learning models inside-out; focused on bias detection and mitigation in vision-language models using mechanistic interpretability.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Akasaka 9-5-29, Minato-ku",
+      "postalCode": "T-107-0052",
+      "city": "Tokyo",
+      "countryCode": "JP",
+      "region": "Tokyo"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "filipkucera1337",
+        "url": "https://www.linkedin.com/in/filipkucera1337/"
+      },
+      {
+        "network": "GitHub",
+        "username": "shinobiultra",
+        "url": "https://github.com/shinobiultra/"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0003-0112-9909",
+        "url": "https://orcid.org/my-orcid?orcid=0000-0003-0112-9909"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "u3MwH5kAAAAJ",
+        "url": "https://scholar.google.ch/citations?user=u3MwH5kAAAAJ&hl=en"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "oyX3mIIAAAAJ",
+        "url": "https://scholar.google.cz/citations?hl=cs&user=oyX3mIIAAAAJ"
+      },
+      {
+        "network": "X",
+        "username": "PonekudOnekom",
+        "url": "https://x.com/PonekudOnekom"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Julius-Maximilians-Universität Würzburg",
+      "position": "PhD Student",
+      "url": "",
+      "startDate": "2025-06",
+      "endDate": "",
+      "summary": "Bias Detection and Mitigation in Vision-Language Models using methods of mechanistic interpretability; collaborating with the Media Bias Research Group (MBG) and invited as guest researcher at the National Institute of Informatics (NII) in Tokyo (from August 2025), supported by a DAAD IFI scholarship for a 1-year stay.",
+      "highlights": [
+        "Mechanistic interpretability for uncovering and mitigating bias in multi-modal models",
+        "Collaboration with MBG; guest researcher at NII Tokyo"
+      ]
+    },
+    {
+      "name": "Czech Technical University in Prague (CTU), Center for Machine Perception (CMP) – Visual Recognition Lab",
+      "position": "Research Fellow",
+      "url": "https://cmp.felk.cvut.cz/new_pages/",
+      "startDate": "2022",
+      "endDate": "2025",
+      "summary": "Research Fellow in VR lab headed by Prof. Jiří Matas.",
+      "highlights": []
+    },
+    {
+      "name": "Czech Technical University in Prague (CTU), FEE",
+      "position": "External Teacher (Computer Architectures – B0B35APO)",
+      "url": "https://intranet.fel.cvut.cz/en/education/bk/predmety/47/03/p4703306.html",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Taught lab sections for Computer Architectures.",
+      "highlights": []
+    },
+    {
+      "name": "National Library of Technology (Prague)",
+      "position": "Lecturer",
+      "url": "https://www.youtube.com/watch?v=HozAWvxzg9w",
+      "startDate": "2022",
+      "endDate": "2025",
+      "summary": "Co-created and lectured robotics workshops for high-school groups and companies (Robotis Premium robots).",
+      "highlights": []
+    },
+    {
+      "name": "Gymnázium Nad Kavalírkou (Grammar School)",
+      "position": "External Teacher",
+      "url": "https://robosoutez.fel.cvut.cz/",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Led non-compulsory robotics class (Raspberry Pi & electronics, LEGO robotics and LEGO competition prep, Java & Processing).",
+      "highlights": []
+    },
+    {
+      "name": "CTU – Computational Robotics Lab (COMROB)",
+      "position": "Undergraduate Research Fellow",
+      "url": "https://comrob.fel.cvut.cz/",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Developed FPGA DSP for real-time LiDAR data processing and odometry from point clouds (Bachelor thesis).",
+      "highlights": []
+    },
+    {
+      "name": "Autodesk (Děčín, CZ)",
+      "position": "Software Content Engineer (Internship)",
+      "url": "",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "C++ work in Inventor Content Center team: bug fixes and ribbon prototypes using Microsoft Foundation Class (MFC) library.",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Sincoolka Dormitory Clubs (CTU)",
+      "location": "Prague, Czech Republic",
+      "position": "Systems Administrator; later Head of Sysadmin Division",
+      "url": "https://sincoolka.cz/en/",
+      "startDate": "2019",
+      "endDate": "",
+      "summary": "Network and systems administration (Juniper switches, Ruckus routers, Linux, networks, PHP & PostgreSQL, AP installation/placement, 3D printing access, PR, events).",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Czech Technical University in Prague (CTU), Faculty of Electrical Engineering",
+      "location": "Prague, Czech Republic",
+      "url": "https://fel.cvut.cz/",
+      "area": "Open Informatics – Computer Engineering",
+      "studyType": "Master",
+      "startDate": "2022",
+      "endDate": "2025",
+      "score": "",
+      "courses": [],
+      "thesis": {
+        "title": "Visual predictor of local surface maps in front of a vehicle.",
+        "url": "https://dspace.cvut.cz/handle/10467/120305"
+      }
+    },
+    {
+      "institution": "prg.ai Minor",
+      "location": "Prague, Czech Republic",
+      "url": "https://prg.ai/en/minor/",
+      "area": "AI/ML cross-university program",
+      "studyType": "Minor (extracurricular)",
+      "startDate": "2022",
+      "endDate": "2025",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Czech Technical University in Prague (CTU), Faculty of Electrical Engineering",
+      "location": "Prague, Czech Republic",
+      "url": "https://fel.cvut.cz/",
+      "area": "Open Informatics – Computer Science (ELMG)",
+      "studyType": "Bachelor",
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "",
+      "courses": [],
+      "thesis": {
+        "title": "FPGA-based Processing of LiDAR Data.",
+        "url": "https://dspace.cvut.cz/handle/10467/101252"
+      }
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Graduated with Honors (Bachelor)",
+      "date": "2019-2019",
+      "awarder": "FEE CTU",
+      "url": "",
+      "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Single Session Walking Robot Workshop for High School Students",
+      "publisher": "International Conference on Robotics in Education",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1007/978-3-031-38454-7_6",
+      "summary": "",
+      "authors": ["Martin Zoula", "Filip Kučera"]
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "FPGA-based Processing of LiDAR Data.",
+      "publisher": "Bachelor Thesis, CTU FEE",
+      "releaseDate": "2022",
+      "url": "https://dspace.cvut.cz/handle/10467/101252",
+      "summary": "",
+      "authors": ["Filip Kučera"]
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Visual predictor of local surface maps in front of a vehicle.",
+      "publisher": "Master Thesis, CTU FEE",
+      "releaseDate": "2025",
+      "url": "https://dspace.cvut.cz/handle/10467/120305",
+      "summary": "",
+      "authors": ["Filip Kučera"]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Machine Learning",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Mechanistic Interpretability",
+        "Bias Detection & Mitigation",
+        "Deep Learning"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "C++",
+        "Python",
+        "GPGPU",
+        "Parallel & Distributed Computing",
+        "FPGA / Digital Design"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Systems Administration",
+        "Networking"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Czech",
+      "fluency": "★★★★★",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "★★★★☆",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "★☆☆☆☆",
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Walking Robot Workshops",
+      "summary": "Robotics workshops (Robotis Premium) for high-school students and companies.",
+      "highlights": [],
+      "startDate": "2022",
+      "endDate": "2025",
+      "url": "https://www.youtube.com/watch?v=HozAWvxzg9w"
+    },
+    {
+      "name": "FPGA DSP for Real-time LiDAR Processing",
+      "summary": "FPGA-based processing pipeline for LiDAR data and odometry from point clouds (Bachelor research).",
+      "highlights": [],
+      "startDate": "2021",
+      "endDate": "2022",
+      "url": "https://dspace.cvut.cz/handle/10467/101252"
+    },
+    {
+      "name": "Visual Surface Map Prediction in Front of a Vehicle",
+      "summary": "ML pipeline to predict local surface maps ahead of a vehicle for safety system efficiency (Master thesis).",
+      "highlights": [],
+      "startDate": "2025",
+      "endDate": "2025",
+      "url": "https://dspace.cvut.cz/handle/10467/120305"
     }
-  ]
+  ],
+  "meta": {
+    "citations": [
+      ":contentReference[oaicite:0]{index=0}",
+      ":contentReference[oaicite:1]{index=1}"
+    ]
+  }
 }
